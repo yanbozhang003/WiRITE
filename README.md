@@ -8,14 +8,18 @@ The performance is robust when experimenting with users at different ages and ge
 
 ## Citation
 
-[Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput](https://ieeexplore.ieee.org/document/9847071)
+[WiRITE: General and Practical Wi-Fi Based Hand-Writing Recognition](https://ieeexplore.ieee.org/document/10098632)
 
 ```
-@article{zhang2022channel,
-  title={Channel adapted antenna augmentation for improved Wi-Fi throughput},
-  author={Zhang, Yanbo and Sun, Weiping and Ren, Yidong and Lee, Sung-Ju and Li, Mo},
-  journal={IEEE Transactions on Mobile Computing},
-  year={2022},
-  publisher={IEEE}
-}
+@ARTICLE{10098632,
+  author={Zhang, Yanbo and Sun, Weiping and Li, Mo},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={WiRITE: General and Practical Wi-Fi Based Hand-Writing Recognition}, 
+  year={2024},
+  volume={23},
+  number={4},
+  pages={2943-2957},
+  keywords={Training;Wireless fidelity;Trajectory;Databases;Image classification;Adaptation models;Mobile computing;Antenna measurement;CSI sanitization;gesture recognition;human computer interaction;wi-fi sensing},
+  doi={10.1109/TMC.2023.3265988}}
+
 ```
