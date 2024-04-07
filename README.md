@@ -20,6 +20,6 @@ The performance is robust when experimenting with users at different ages and ge
   number={4},
   pages={2943-2957},
   keywords={Training;Wireless fidelity;Trajectory;Databases;Image classification;Adaptation models;Mobile computing;Antenna measurement;CSI sanitization;gesture recognition;human computer interaction;wi-fi sensing},
-  doi={10.1109/TMC.2023.3265988}}
-
+  doi={10.1109/TMC.2023.3265988}
+}
 ```
