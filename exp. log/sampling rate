@@ -1,0 +1,27 @@
+
+Link distance: 25cm
+
+1. sampling rate = 333
+B: 6/10 (0.51); 
+C: 9/10 (0.54);
+D: 5/10 (0.62);
+L: 10/10 (0.45);
+M: 10/10 (0.73);
+W: 5/10 (0.75);
+Y: 3/10 (0.4);
+Z: 10/10 (0.72);
+
+2. sampling rate = 250
+M: 10/10 (0.78)
+
+3. sampling rate = 200
+M: 10/10 (0.67)
+
+4. sampling rate = 150
+M: 4/10 (0.54)
+
+5. sampling rate = 100
+M: 3/10 (0.32)
+
+6. sampling rate = 50
+M: 0/10

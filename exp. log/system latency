@@ -1,0 +1,202 @@
+
+1. Test system latency (333Hz sampling rate):
+
+CSI sanit time: 0.02
+Get trajectory time: 4.45
+Classification time: 6.57
+CSI sanit time: 0.02
+Get trajectory time: 6.23
+Classification time: 7.83
+CSI sanit time: 0.02
+Get trajectory time: 6.12
+Classification time: 7.66
+CSI sanit time: 0.02
+Get trajectory time: 6.17
+Classification time: 7.64
+CSI sanit time: 0.02
+Get trajectory time: 6.23
+Classification time: 7.73
+CSI sanit time: 0.01
+Get trajectory time: 4.64
+Classification time: 6.22
+CSI sanit time: 0.02
+Get trajectory time: 5.89
+Classification time: 7.35
+CSI sanit time: 0.01
+Get trajectory time: 3.45
+Classification time: 4.94
+CSI sanit time: 0.02
+Get trajectory time: 5.30
+Classification time: 6.71
+CSI sanit time: 0.01
+Get trajectory time: 5.77
+Classification time: 7.29
+CSI sanit time: 0.02
+Get trajectory time: 4.84
+Classification time: 6.26
+
+2. Test system latency (250Hz sampling rate):
+
+CSI sanit time: 0.02
+Get trajectory time: 2.75
+Classification time: 4.77
+CSI sanit time: 0.01
+Get trajectory time: 3.29
+Classification time: 4.85
+CSI sanit time: 0.02
+Get trajectory time: 3.22
+Classification time: 4.82
+CSI sanit time: 0.01
+Get trajectory time: 3.92
+Classification time: 5.31
+CSI sanit time: 0.01
+Get trajectory time: 1.84
+Classification time: 3.38
+CSI sanit time: 0.01
+Get trajectory time: 2.91
+Classification time: 4.32
+CSI sanit time: 0.01
+Get trajectory time: 2.79
+Classification time: 4.21
+CSI sanit time: 0.01
+Get trajectory time: 4.42
+Classification time: 5.95
+CSI sanit time: 0.01
+Get trajectory time: 3.84
+Classification time: 5.25
+CSI sanit time: 0.01
+Get trajectory time: 3.52
+Classification time: 5.01
+
+3. Test system latency (200Hz sampling rate):
+
+CSI sanit time: 0.02
+Get trajectory time: 2.20
+Classification time: 4.21
+CSI sanit time: 0.01
+Get trajectory time: 2.20
+Classification time: 3.68
+CSI sanit time: 0.01
+Get trajectory time: 2.58
+Classification time: 4.14
+CSI sanit time: 0.01
+Get trajectory time: 2.14
+Classification time: 3.72
+CSI sanit time: 0.01
+Get trajectory time: 2.15
+Classification time: 3.77
+CSI sanit time: 0.01
+Get trajectory time: 2.64
+Classification time: 4.22
+CSI sanit time: 0.01
+Get trajectory time: 3.40
+Classification time: 4.85
+CSI sanit time: 0.01
+Get trajectory time: 4.57
+Classification time: 6.08
+CSI sanit time: 0.01
+Get trajectory time: 2.48
+Classification time: 3.88
+CSI sanit time: 0.01
+Get trajectory time: 2.09
+Classification time: 3.47
+
+4. Test system latency (150Hz sampling rate):
+
+CSI sanit time: 0.01
+Get trajectory time: 2.03
+Classification time: 3.50
+CSI sanit time: 0.01
+Get trajectory time: 1.95
+Classification time: 3.41
+CSI sanit time: 0.01
+Get trajectory time: 1.62
+Classification time: 3.11
+CSI sanit time: 0.01
+Get trajectory time: 3.73
+Classification time: 5.36
+CSI sanit time: 0.01
+Get trajectory time: 1.10
+Classification time: 2.53
+CSI sanit time: 0.01
+Get trajectory time: 1.94
+Classification time: 3.40
+CSI sanit time: 0.01
+Get trajectory time: 2.35
+Classification time: 3.76
+CSI sanit time: 0.01
+Get trajectory time: 1.80
+Classification time: 3.25
+CSI sanit time: 0.01
+Get trajectory time: 1.84
+Classification time: 3.28
+CSI sanit time: 0.01
+Get trajectory time: 1.22
+Classification time: 2.67
+
+5. Test system latency (100Hz sampling rate):
+
+CSI sanit time: 0.01
+Get trajectory time: 1.08
+Classification time: 2.51
+CSI sanit time: 0.01
+Get trajectory time: 0.94
+Classification time: 2.39
+CSI sanit time: 0.01
+Get trajectory time: 1.43
+Classification time: 2.82
+CSI sanit time: 0.01
+Get trajectory time: 0.57
+Classification time: 1.96
+CSI sanit time: 0.01
+Get trajectory time: 0.60
+Classification time: 1.97
+CSI sanit time: 0.01
+Get trajectory time: 0.91
+Classification time: 2.33
+CSI sanit time: 0.01
+Get trajectory time: 1.03
+Classification time: 2.47
+CSI sanit time: 0.01
+Get trajectory time: 0.56
+Classification time: 1.95
+CSI sanit time: 0.01
+Get trajectory time: 0.75
+Classification time: 2.21
+CSI sanit time: 0.01
+Get trajectory time: 0.73
+Classification time: 2.19
+
+6. Test system latency (50Hz sampling rate):
+
+CSI sanit time: 0.00
+Get trajectory time: 0.41
+Classification time: 1.78
+CSI sanit time: 0.00
+Get trajectory time: 0.35
+Classification time: 1.74
+CSI sanit time: 0.00
+Get trajectory time: 0.34
+Classification time: 1.75
+CSI sanit time: 0.00
+Get trajectory time: 0.35
+Classification time: 1.72
+CSI sanit time: 0.00
+Get trajectory time: 0.22
+Classification time: 1.57
+CSI sanit time: 0.00
+Get trajectory time: 0.26
+Classification time: 1.63
+CSI sanit time: 0.00
+Get trajectory time: 0.45
+Classification time: 1.84
+CSI sanit time: 0.00
+Get trajectory time: 0.29
+Classification time: 1.63
+CSI sanit time: 0.01
+Get trajectory time: 0.51
+Classification time: 1.85
+CSI sanit time: 0.00
+Get trajectory time: 0.26
+Classification time: 1.63
+

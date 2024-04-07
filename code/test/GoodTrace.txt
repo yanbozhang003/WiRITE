@@ -1,0 +1,4 @@
+Good Trace
+
+A: trace5, sample2
+B: trace1, sample1; trace3, sample3

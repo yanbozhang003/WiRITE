@@ -1,0 +1,3 @@
+1. change PC ip to 3.100
+2. close to power jack is r1, then r3, r2
+3. Rx: 3.10; Tx: 3.20
